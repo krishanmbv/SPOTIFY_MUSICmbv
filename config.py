@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", "7737328649:AAH65XQ08EZMn8yUeV9eL0FHnI8j3Uy2ZBs"
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","@censored_politicsss")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "@music9800_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@mbvmusic_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 MBV ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
 # ---------------------------------------------------------
@@ -119,7 +119,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", " 1BVtsOIEBu4OA63sccT9X8xbHhaPWKxmgit60IDKRspHi655MgPgxgBKfuAJk-w5Ch47wU_dUMKqX40EdFKAwvwIYZp3NGIPCdldTCm-4F8PC6n1AJfYIGpZH1X8c_UndiQM626G9imD-AjVAmuicuv5e5HKQYQDSe3LMz_Q7rPxJOHnGR7Pcd2L9R-K_-EE-T-BiB3WZ8hBoAUZtwriKPE3Lj9NdGmAVigejvW5JjAms6r-TxEMTuD5G59ssw6Dmw2GPFWwd6VBx9llEzaLf_JqXMDQFm6HsORUpeFJsar5nG0tWGJJ6kwnhH9iob11iDUBteSjUpCrE5dcZyD4VpnU6c4ybu8k")
+STRING1 = getenv("STRING_SESSION", " 1BVtsOIEBu4OA63sccT9X8xbHhaPWKxmgit60IDKRspHi655MgPgxgBKfuAJk-w5Ch47wU_dUMKqX40EdFKAwvwIYZp3NGIPCdldTCm-4F8PC6n1AJfYIGpZH1X8c_UndiQM626G9imD-AjVAmuicuv5e5HKQYQDSe3LMz_Q7rPxJOHnGR7Pcd2L9R-K_-EE-T-BiB3WZ8hBoAUZtwriKPE3Lj9NdGmAVigejvW5JjAms6r-TxEMTuD5G59ssw6Dmw2GPFWwd6VBx9llEzaLf_JqXMDQFm6HsORUpeFJsar5nG0tWGJJ6kwnhH9iob11iDUBteSjUpCrE5dcZyD4VpnU6c4ybu8k=")
 BANNED_USERS = filters.user()
 adminlist = {}
 lyrical = {}
